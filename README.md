@@ -1,3 +1,4 @@
+[![compile](https://github.com/sesantilla/autovalidate/actions/workflows/compile.yml/badge.svg)](https://github.com/sesantilla/autovalidate/actions/workflows/compile.yml)
 # autovalidate
 
 I like that app too!
